@@ -1,1 +1,1 @@
-print ('Hello, Miss Alima, I see your icon and must to say that okkotsu is better)')
+print ('test test test')
