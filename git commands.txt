@@ -1,0 +1,15 @@
+mkdir PP2
+cd PP2
+
+
+
+echo "# pp2-AlimaKusmanova" >> README.md
+git init
+git add README.md
+
+git add .
+
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/mensiyaqty/pp2-AlimaKusmanova.git
+git push -u origin main
